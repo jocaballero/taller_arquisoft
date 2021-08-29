@@ -1,7 +1,7 @@
 # taller_arquisoft
 Taller 3 - Vistas
 
-Jhorman Caballero - 201812920
+Jhorman Caballero - 201812920 \n
 Federico Gadea Chamorro
 
 Listado de todas las medidas
